@@ -7,7 +7,7 @@
 
 With this app users will be able to click a genre selector and song number selector from dropdown menus then hit search to return a list of randomly selected songs from Spotify Public API in the page below. Users will be able to navigate to the 'Lyrics' tab and be able to type song titles for song lyircs after they have discovered new music using our random playlist generator.
 
-### Project Launch (https://kgarden22.github.io/musicdiscovery/)
+### Project Launch (https://kcjhill1234.github.io/musicdiscovery/)
 
 ### Why we created this project
 The reasoning for this was to create a simple application that will generate a small playlist of randomly selected songs that is easy and uses the large Spotify DB to increase exposure to new areas of music that wouldnt normally be reached. 
